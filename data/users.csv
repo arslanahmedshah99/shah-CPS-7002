@@ -1,0 +1,4 @@
+username,password,full_name,email,role,status
+admin,1234,Admin User,admin@test.com,admin,active
+user1,abcd,Normal User,user@test.com,user,active
+blocked,1111,Blocked User,blocked@test.com,user,inactive
