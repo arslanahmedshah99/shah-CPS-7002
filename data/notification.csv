@@ -1,0 +1,4 @@
+id,user_id,message,delivered
+1,1,New cafeteria menu available,False
+2,2,Room change for CS101,True
+3,23,dcwrdedd,True
